@@ -1,0 +1,113 @@
+.infoContainer {
+  display: flex;
+  min-height: 100vh;
+  background: #1a1a1a;
+  color: #F5F6FA;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.sidebar {
+  width: 220px;
+  background: #202020;
+  padding: 32px 0 0 0;
+  border-right: 1px solid #3d3d3d;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.sidebar nav ul {
+  list-style: none;
+  padding: 0 24px;
+  margin: 0;
+}
+.sidebar nav li {
+  margin-bottom: 18px;
+}
+.sidebar nav button {
+  background: none;
+  border: none;
+  color: #B0B0B0;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px 0;
+  transition: color 0.2s;
+}
+.sidebar nav button:hover {
+  color: #22c55e;
+}
+
+.homeLinkWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 24px 16px 24px;
+}
+.homeLink {
+  color: #2b67a4;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.homeLink:hover {
+  color: #22c55e;
+  text-decoration: underline;
+}
+
+.infoContent {
+  flex: 1 1 auto;
+  padding: 48px 40px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.infoContent section {
+  margin-bottom: 48px;
+  background: #202020;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  padding: 32px 28px;
+}
+.infoContent h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.infoContent ul {
+  color: #B0B0B0;
+  font-size: 1rem;
+  margin-bottom: 12px;
+  padding-left: 1.2em;
+}
+.infoContent a {
+  color: #2b67a4;
+  text-decoration: none;
+  font-weight: 500;
+}
+.infoContent a:hover {
+  color: #22c55e;
+}
+
+@media (max-width: 900px) {
+  .infoContainer {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid #3d3d3d;
+    align-items: center;
+    padding: 16px 0 0 0;
+    position: static;
+  }
+  .infoContent {
+    padding: 32px 8px;
+  }
+} 

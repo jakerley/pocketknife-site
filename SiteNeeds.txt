@@ -1,0 +1,59 @@
+Pocketknife  
+Media conversion that speaks your language.
+
+No more command line. Just say what you need —  
+“compress for web without losing quality,”  
+“remove the audio,”  
+“convert to ProRes” —  
+and Pocketknife does the rest. (We can workshop this section)
+
+Ask away. We’ll handle the syntax.
+
+⬇ Download for Mac & Windows
+
+Pricing:
+Pocketknife is free to use with limited daily conversions.
+
+Upgrade to Pocketknife Pro:
+- $5 per month
+
+Upgrade anytime from within the app.
+
+
+Cancelation:
+
+You may cancel your Pocketknife Pro subscription at any time.
+
+- Your subscription will remain active until the end of your current billing period.
+- After that, you’ll return to the free tier with limited daily conversions.
+- You can re-subscribe at any time.
+
+To cancel:
+- Open the Pocketknife app
+- Go to Account or Subscription
+- Click Cancel Subscription
+
+Refunds:
+We offer refunds within 3 days of purchase if:
+
+- The app didn’t function as intended on your system
+- You were charged in error
+- We couldn’t resolve a technical issue
+
+Refunds are not issued for:
+- Partial use of a subscription
+- Cancelations after 3 days
+- Inactivity or non-use
+
+To request a refund:
+Email support@pocketknife.media with:
+
+- The email used for the subscription
+- Purchase date
+- A brief description of the issue
+
+We aim to respond within 3 business days.
+
+For any questions, technical issues, or feedback:
+
+📧 support@pocketknife.media
